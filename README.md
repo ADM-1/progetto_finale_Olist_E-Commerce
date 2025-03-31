@@ -44,5 +44,5 @@ Tabelle a disposizione:
 Tra i file è presente un report creato con Power BI. Per visualizzarlo, scarica il file `Olist_Viz.pbix` e aprilo con Power BI Desktop.
 
 1. Scarica e installa Power BI Desktop da [qui](https://powerbi.microsoft.com/desktop/).
-2. Apri il file `visualization_olist.pbix` con Power BI Desktop.
+2. Apri il file `Olist_Viz.pbix` con Power BI Desktop.
 3. Interagisci con il report.
